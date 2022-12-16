@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ML Algos
 - 💞️ I’m looking to collaborate on Deep Learning
-- 📫 How to reach me : mail me @shwetashivhare94@gmail.com
+- 📫 How to reach me : mail me @xxxxxxxxxxxx.com
 
 <!---
 Shweta-Shivhare/Shweta-Shivhare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
